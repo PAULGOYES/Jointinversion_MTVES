@@ -10,7 +10,7 @@ The code includes all components to reproduce the three experiments presented in
 - **Experiment II**: Robustness under epistemic uncertainty.  
 - **Experiment III**: Application to field data and comparison with conventional methods.
 
-> **Note:** The Jupyter notebooks in this repository require **TensorFlow 2.19.0** for correct execution.
+> **Note:** The Jupyter notebooks in this repository are tested on **Google Colab** with **Python 3.10** and **TensorFlow 2.19.0**.
 
 ---
 
